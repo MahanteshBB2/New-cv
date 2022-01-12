@@ -1,12 +1,11 @@
 body {
   color: #40514e;
-  margin: 0px;
+  margin: auto;
   text-align: center;
   font-family: "Merriweather", serif;
 }
 .top-container {
   background-color: #b8e4f0;
-  width: auto;
 }
 .middle-container {
   margin: 100px 0;
