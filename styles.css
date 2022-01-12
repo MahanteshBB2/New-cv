@@ -6,6 +6,7 @@ body {
 }
 .top-container {
   background-color: #b8e4f0;
+  width: 100%;
 }
 .middle-container {
   margin: 100px 0;
